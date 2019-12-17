@@ -37,6 +37,11 @@ public class UIMainMenuManager : MonoBehaviour
         StartCoroutine(DelayBack());
     }
 
+    public void Quit()
+    {
+        Application.Quit();
+    }
+
     IEnumerator DelayBack()
     {
         yield return new WaitForSeconds(0.6f);
@@ -52,6 +57,6 @@ public class UIMainMenuManager : MonoBehaviour
     IEnumerator DelayStart()
     {
         yield return new WaitForSeconds(1.2f);
-        SceneManager.LoadScene("SaveSanta_GAME");
+        SceneManager.LoadScene("SaveSanta_GAME_Tutorial");
     }
 }

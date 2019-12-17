@@ -31,13 +31,20 @@ public class UIInGameManager : MonoBehaviour
     {
         transitionOutPanel.SetActive(true);
         GameManagement._instance.PauseGame = true;
-        StartCoroutine(TransitionOut());
+        StartCoroutine(TransitionOut("SaveSanta_MENU"));
     }
 
-    IEnumerator TransitionOut()
+    IEnumerator TransitionOut(string scene)
     {
         yield return new WaitForSeconds(1.2f);
-        SceneManager.LoadScene("SaveSanta_MENU");
+        SceneManager.LoadScene(scene);
+    }
+
+    public void GoToScene(string scene)
+    {
+        transitionOutPanel.SetActive(true);
+        GameManagement._instance.PauseGame = true;
+        StartCoroutine(TransitionOut(scene));
     }
 
     public void Pause()

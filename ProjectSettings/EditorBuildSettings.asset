@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SaveSanta_MENU.unity
     guid: e1943d6e234ddf9468fa561a6216edc5
   - enabled: 1
-    path: Assets/Scenes/SaveSanta_GAME.unity
+    path: Assets/Scenes/SaveSanta_GAME_Tutorial.unity
+    guid: 543e8fcfe20c6684f8b818352aa09d9b
+  - enabled: 1
+    path: Assets/Scenes/SaveSanta_GAME_Level1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

@@ -24,11 +24,9 @@ public class Zombie : MonoBehaviour
     //For toggle delayMove
     private bool toggleMoveDelay; 
 
-    public void Initialize(int health, float speed)
+    public void Initialize()
     {
         parent = transform.parent.gameObject;
-        this.health = health;
-        this.speed = speed;
         animator = GetComponent<Animator>();
         collider = GetComponent<PolygonCollider2D>();
         renderer = GetComponent<SpriteRenderer>(); 
@@ -39,7 +37,7 @@ public class Zombie : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Initialize(3,2);
+        Initialize();
     }
 
     // Update is called once per frame

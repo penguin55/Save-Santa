@@ -67,7 +67,7 @@ public class TutorialManager : MonoBehaviour
         return nextHint;
     }
 
-    private void OnMouseDown()
+    public void OnClick()
     {
         clickHint.SetActive(false);
         nextHint = true;
