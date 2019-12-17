@@ -54,8 +54,7 @@ public class Zombie : MonoBehaviour
 
     public void Hit()
     {
-        if (dead) return;
-
+        SFXManager._instance.PlaySFX("Zombie", 1);
         StopCoroutine(ToggleHit());
         
         animator.SetTrigger("Hit");
@@ -113,7 +112,8 @@ public class Zombie : MonoBehaviour
     private void OnMouseDown()
     {
         if (!GameManagement._instance.HitAble) return;
-            
+        if (dead) return;
+
         hit = true;
         Hit();
     }

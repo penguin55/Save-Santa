@@ -67,4 +67,9 @@ public class UIInGameManager : MonoBehaviour
         yield return new WaitForSeconds(0.6f);
         pausePanel.SetActive(false);
     }
+
+    public void ClickButton()
+    {
+        SFXManager._instance.PlaySFX("UI", 2);
+    }
 }

@@ -11,7 +11,8 @@ public class SFXManager : MonoBehaviour
 
     [SerializeField] private AudioSource playerSource;
     [SerializeField] private AudioSource enemySource;
-        
+    [SerializeField] private AudioSource UISource;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -42,6 +43,8 @@ public class SFXManager : MonoBehaviour
                 return playerSource;
             case "zombie":
                 return enemySource;
+            case "ui":
+                return UISource;
             default:
                 return null;
         }
