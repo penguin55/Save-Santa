@@ -59,4 +59,9 @@ public class UIMainMenuManager : MonoBehaviour
         yield return new WaitForSeconds(1.2f);
         SceneManager.LoadScene("SaveSanta_GAME_Tutorial");
     }
+
+    public void ClickButton()
+    {
+        SFXManager._instance.PlaySFX("UI", 2);
+    }
 }
