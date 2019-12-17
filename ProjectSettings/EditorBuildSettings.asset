@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/SaveSanta_MENU.unity
+    guid: e1943d6e234ddf9468fa561a6216edc5
+  - enabled: 1
+    path: Assets/Scenes/SaveSanta_GAME.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}

@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: cd26fcb8161630546999e944edc3d69b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5954242028020496327
+    second: xmas_game_gui_buttons_0
+  - first:
+      213: -6027800587507200488
+    second: xmas_game_gui_buttons_1
+  - first:
+      213: 3616680635611681963
+    second: xmas_game_gui_buttons_2
+  - first:
+      213: 5873955769194428454
+    second: xmas_game_gui_buttons_3
+  - first:
+      213: -3269556166731848446
+    second: xmas_game_gui_buttons_4
+  - first:
+      213: -2329276879608393931
+    second: xmas_game_gui_buttons_5
+  - first:
+      213: -6356438629487816292
+    second: xmas_game_gui_buttons_6
+  - first:
+      213: 1915848519793015071
+    second: xmas_game_gui_buttons_7
+  - first:
+      213: 487314030779975529
+    second: xmas_game_gui_buttons_8
+  - first:
+      213: 4624905185649154015
+    second: xmas_game_gui_buttons_9
+  - first:
+      213: 3851098798765399908
+    second: xmas_game_gui_buttons_10
+  - first:
+      213: -4481656623350191389
+    second: xmas_game_gui_buttons_11
+  - first:
+      213: 3414231307252329740
+    second: xmas_game_gui_buttons_12
+  - first:
+      213: -8756516003717171506
+    second: xmas_game_gui_buttons_13
+  - first:
+      213: -395961920352086515
+    second: xmas_game_gui_buttons_14
+  - first:
+      213: 6883476971444025491
+    second: xmas_game_gui_buttons_15
+  - first:
+      213: 8683979603372907058
+    second: xmas_game_gui_buttons_16
+  - first:
+      213: 3858763115265489713
+    second: xmas_game_gui_buttons_17
+  - first:
+      213: 457942794409712743
+    second: xmas_game_gui_buttons_18
+  - first:
+      213: -5667759349092339516
+    second: xmas_game_gui_buttons_19
+  - first:
+      213: -2083873751432372247
+    second: xmas_game_gui_buttons_20
+  - first:
+      213: -4622248431935165871
+    second: xmas_game_gui_buttons_21
+  - first:
+      213: -7168794052621007890
+    second: xmas_game_gui_buttons_22
+  - first:
+      213: -2008493713371030517
+    second: xmas_game_gui_buttons_23
+  - first:
+      213: 1135739731074612726
+    second: xmas_game_gui_buttons_24
+  - first:
+      213: 6216501328333580640
+    second: xmas_game_gui_buttons_25
+  - first:
+      213: -1491923884899629509
+    second: xmas_game_gui_buttons_26
+  - first:
+      213: -227517206489435558
+    second: xmas_game_gui_buttons_27
+  - first:
+      213: -5860676916264366212
+    second: xmas_game_gui_buttons_28
+  - first:
+      213: -2490265561198265284
+    second: xmas_game_gui_buttons_29
+  - first:
+      213: -2666194159207488205
+    second: xmas_game_gui_buttons_30
+  - first:
+      213: 1716977892850580812
+    second: xmas_game_gui_buttons_31
+  - first:
+      213: -4578198728514730425
+    second: xmas_game_gui_buttons_32
+  - first:
+      213: 7627493670191881202
+    second: xmas_game_gui_buttons_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1870
+        width: 1935
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea2cb96c105ecb41b4203a081e5e861
+      internalID: 5954242028020496327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_1
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 2624
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea5dd26faa2964d97dbb32c6b24fa8
+      internalID: -6027800587507200488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_2
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 2656
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa0f1042d0213c47962ef58a06e283e
+      internalID: 3616680635611681963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1846
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600666ab7d3c1b442bb925948e1b39b5
+      internalID: 5873955769194428454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_4
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1858
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ea9a4b9fd34749828d9f89e9cd153
+      internalID: -3269556166731848446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_5
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1851
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893d045aa32119a4eb591f05eaa41656
+      internalID: -2329276879608393931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_6
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1835
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a15e94618e53be4eb7e6e1efe9c3d0e
+      internalID: -6356438629487816292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_7
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1806
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f3cfd5afdd44b43b3145f5e1418044
+      internalID: 1915848519793015071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_8
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1783
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f06530964c73a44934dc8e9b2a0386
+      internalID: 487314030779975529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 2281
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53e9f1e95eb3fd4abfbc39a287ad0e8
+      internalID: 4624905185649154015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_10
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 691
+        width: 382
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22d6d36625df44387d74eb6320737b
+      internalID: 3851098798765399908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 415
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924e2b575d2399b46941f51d8714bc82
+      internalID: -4481656623350191389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 685
+        width: 406
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda403afaf1535e42a26ff0d992a87c4
+      internalID: 3414231307252329740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_13
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 684
+        width: 408
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92a4bd14beef8b4e962015c84e17691
+      internalID: -8756516003717171506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_14
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 685
+        width: 409
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f5fd8fa84e4754eaafca383b1198b9
+      internalID: -395961920352086515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_15
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 684
+        width: 407
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a585041e7e96b6049a6b888459b56283
+      internalID: 6883476971444025491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_16
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 691
+        width: 384
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc72e1ccece2246901b4038e18e82d
+      internalID: 8683979603372907058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_17
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 691
+        width: 383
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47fab1e98a95a4b9d62f05db0c6535
+      internalID: 3858763115265489713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 415
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a1f35671f4307439ad27937dacfa29
+      internalID: 457942794409712743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 342
+        width: 406
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622c15f122458644e91e541ff40448a1
+      internalID: -5667759349092339516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_20
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 342
+        width: 408
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd1dafdd816c744897fbda7ad43bf83
+      internalID: -2083873751432372247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_21
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 342
+        width: 409
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce44f9b64dad7e45a7ced7871eb2fe6
+      internalID: -4622248431935165871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_22
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 342
+        width: 407
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8501b83c2787574d967626f37b12122
+      internalID: -7168794052621007890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_23
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 347
+        width: 384
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84099c5b4bc7e47a8b07f92ff6583c
+      internalID: -2008493713371030517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_24
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 347
+        width: 383
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1019f091849389e4f9dd9876ad99b860
+      internalID: 1135739731074612726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_25
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 347
+        width: 382
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2818287f4d7a4349bd6fcef88d387a4
+      internalID: 6216501328333580640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 415
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1dae29231429846b6dc6e875ca73e4
+      internalID: -1491923884899629509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 406
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c834b0a25e674193d0f6528a90cd8
+      internalID: -227517206489435558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_28
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 408
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b9e3053a292746bc9d265f2778cda
+      internalID: -5860676916264366212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_29
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 0
+        width: 409
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0254003d414bb04d9e2c68171b78e18
+      internalID: -2490265561198265284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_30
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 407
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0ab5d9a892ee42a04dd4cf5c74b56
+      internalID: -2666194159207488205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_31
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 4
+        width: 384
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac22991fffa1a341a9a249b44a6f162
+      internalID: 1716977892850580812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_32
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 4
+        width: 383
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce3a6338a777fb4cb44e0298c1e9888
+      internalID: -4578198728514730425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas_game_gui_buttons_33
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 4
+        width: 382
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b5d99d4aed01d44962193e64ed9bef
+      internalID: 7627493670191881202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
